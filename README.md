@@ -31,7 +31,7 @@
   "AQchance/flash-zh-simple.nvim",
   dependencies = {
     "folke/flash.nvim",
-    "rainerosion/flash-zh.nvim",
+    "rainzm/flash-zh.nvim",
   },
   event = "VeryLazy",
   -- 默认会自动设置按键映射，无需额外配置
@@ -45,7 +45,7 @@ use {
   "AQchance/flash-zh-simple.nvim",
   requires = {
     "folke/flash.nvim",
-    "rainerosion/flash-zh.nvim",
+    "rainzm/flash-zh.nvim",
   }
 }
 ```
