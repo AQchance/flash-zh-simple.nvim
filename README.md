@@ -15,6 +15,17 @@
     *   插件自动将其转为小鹤双拼码
     *   直接调用 `flash` 飞过去！⚡️
 
+## 演示
+
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/57cfd08f-cba1-4895-be12-0928044aa1a5" 
+         controls 
+         width="100%" 
+         poster="可选封面图链接">
+    您的浏览器不支持 HTML5 视频。
+  </video>
+</div>
+
 ## 🔗 依赖 (Dependencies)
 
 在使用本插件之前，请确保你已经安装了以下插件：
