@@ -68,3 +68,6 @@ use {
 vim.keymap.set("n", "<F1>", "<cmd>XiaoheHelp<CR>", { desc = "小鹤双拼帮助" })
 ```
 
+## 感谢
+- [flash.nvim](https://github.com/folke/flash.nvim)
+- [flash-zh.nvim](https://github.com/rainzm/flash-zh.nvim)
