@@ -2,7 +2,7 @@
 
 > 让中文跳转更简单！小鹤双拼辅助工具 & 全拼智能跳转。🚀
 
-**flash-zh-simple.nvim** 是一个为 [flash-zh.nvim](https://github.com/rainerosion/flash-zh.nvim) 打造的轻量级伴侣插件。它专为正在学习或使用**小鹤双拼**的用户设计，让你在 Neovim 中不仅能随时查阅键位，还能用全拼思维实现双拼的高速跳转！
+**flash-zh-simple.nvim** 是一个为 [flash-zh.nvim](https://github.com/rainzm/flash-zh.nvim) 打造的轻量级伴侣插件。它专为正在学习或使用**小鹤双拼**的用户设计，让你在 Neovim 中不仅能随时查阅键位，还能用全拼思维实现双拼的高速跳转！
 
 ---
 
